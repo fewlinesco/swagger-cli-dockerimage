@@ -1,10 +1,6 @@
-# [project_name]
+# Swagger CLI Docker Image
 
-
-
-## Usage
-
-
+This repository hosts the code to build an up to date swagger CLI docker image
 
 ## Contributing
 
